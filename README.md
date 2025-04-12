@@ -10,6 +10,14 @@
 
 ---
 
+## 📸 SCRENSHOT
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nfs-tech-bd/Gofile-Bot/refs/heads/main/screenshot.png" alt="SCREENSHOT" width="600"/>
+</p>
+
+---
+
 ## 📌 About
 
 **GoFile Link Generator** is a Python-based script that allows **free users** to extract **multiple direct download links** from a GoFile folder or file URL. Normally, bulk link access is a **premium-only** feature — this tool bypasses that limitation programmatically.
