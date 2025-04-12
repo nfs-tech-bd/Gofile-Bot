@@ -47,6 +47,7 @@
 ---
 
 ## 🚀 Usage
+```python3 go.py <gofile-link> ```
 
 ### 🔧 Prerequisites
 
