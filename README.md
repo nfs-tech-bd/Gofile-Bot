@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/gofile-link-generator?style=social)
+![Stars](https://img.shields.io/github/stars/nfs-tech-bd/gofile-bot?style=social)
 
 > ⚡ **Generate multiple direct download links from [GoFile.io](https://gofile.io) — even as a free user. Save time. Beat limits.**
 
